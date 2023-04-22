@@ -8,7 +8,7 @@ Mesmo sem ter feito o curso, você pode baixar e executar a API pra estudo =)
 
 Usei Kotlin e Springboot para programar essa API.
 
-### Requisitos
+### Requisitos   
 
 Baixe e instale o [INTELIJ](https://www.jetbrains.com/idea/)
 
